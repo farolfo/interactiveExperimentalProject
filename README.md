@@ -9,3 +9,9 @@ The goal is something similar to
 * http://lights.elliegoulding.com/
 * http://inear.se/beanstalk/
 * http://www.ro.me/ <-- this is one of the best appoaches
+* 
+
+Some ideas
+----------
+
+* Rank many different threejs animations and random them with the music and the intensivity of the song.
